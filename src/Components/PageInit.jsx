@@ -1,5 +1,5 @@
 import React from 'react'
-import For from "../assets/Afor.png"
+import For from "../assets/AFor.png"
 import Back from "../assets/Aback.png"
 
 function PageInit({handlePrev, handleNext, pageNo}) {
